@@ -1,3 +1,3 @@
 # roadmap.sh-projects
-This is Project 1 of the Frontend Web development path from "https://roadmap.sh/projects/single-page-cv".
+This repository contains all the beginner projects from the Frontend Roadmap: https://roadmap.sh/frontend/projects
 
